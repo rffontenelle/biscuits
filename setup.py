@@ -36,4 +36,5 @@ setup(
     ],
     provides=['biscuits'],
     include_package_data=True
+    package_data={'biscuits': ['LICENSE']}
 )
